@@ -1,6 +1,7 @@
 ## 论文或教程
 - [机器之心文章](https://github.com/jiqizhixin/ML-Tutorial-Experiment)
 - [Deep contextualized word representations](https://arxiv.org/abs/1802.05365?context=cs)
+- [Memory, attention, sequences](https://towardsdatascience.com/memory-attention-sequences-37456d271992)
 
 ## git项目
 - [siamese network](https://github.com/dhwajraj/deep-siamese-text-similarity)
