@@ -8,7 +8,7 @@
 - [ELMO](https://github.com/allenai/bilm-tf)
 - [Text Classification with CNN and RNN](https://github.com/gaussic/text-classification-cnn-rnn)
 - [text_classification](https://github.com/brightmart/text_classification)
-- [deep_qa] (https://github.com/allenai/deep_qa)
+- [deep_qa](https://github.com/allenai/deep_qa)
 
 ## 应用
 - [直播弹幕审核系统和文本分析技术](https://blog.qiniu.com/archives/6889)
