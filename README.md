@@ -14,6 +14,7 @@
 - [numpy-ref-zh](https://github.com/apachecn/numpy-ref-zh)
 - [编程之法](https://github.com/yinyayun/The-Art-Of-Programming-By-July)
 - [用于自然语言处理的数据集集锦](https://yq.aliyun.com/articles/221671)
+- [常用数据集](https://wdxtub.com/2017/02/15/bzs-ai-dataset/)
 
 ## git项目
 
