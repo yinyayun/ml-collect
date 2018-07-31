@@ -13,12 +13,22 @@
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
 - [numpy-ref-zh](https://github.com/apachecn/numpy-ref-zh)
 - [编程之法](https://github.com/yinyayun/The-Art-Of-Programming-By-July)
+- [用于自然语言处理的数据集集锦](https://yq.aliyun.com/articles/221671)
 
 ## git项目
-- [siamese network](https://github.com/dhwajraj/deep-siamese-text-similarity)
-- [ELMO](https://github.com/allenai/bilm-tf)
+
+### 分类
+- [CNN-RNN中文文本分类（内含数据）](https://github.com/gaussic/text-classification-cnn-rnn)
 - [Text Classification with CNN and RNN](https://github.com/gaussic/text-classification-cnn-rnn)
 - [text_classification](https://github.com/brightmart/text_classification)
+
+### 词向量
+- [ELMO](https://github.com/allenai/bilm-tf)
+
+### 相似度
+- [siamese network](https://github.com/dhwajraj/deep-siamese-text-similarity)
+
+### 生成对话
 - [deep_qa](https://github.com/allenai/deep_qa)
 
 ## 应用
